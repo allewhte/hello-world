@@ -1,2 +1,3 @@
 # hello-world
-my very own first repository
+#myveryownfirstrepository
+Hello! My name is Allie, I am 24 years old, I live in the United States of America, and I am a good person. I obey the law, I love God, and I love my family. I am going to change the world...
